@@ -1,6 +1,6 @@
 # Optimization-solver benchmark
 
-Hi I’m **Vedika**, an IE grad student. With this project, I wanted to chekc different solvers and their speeds on a **classic MIP**: the _Capacitated Facility-Location_ problem (CFL).
+Hi I’m **Vedika**, an IE grad student. With this project, I wanted to check different solvers and their speeds on a **classic MIP**: the _Capacitated Facility-Location_ problem (CFL).
 
 This repo contains:
 
